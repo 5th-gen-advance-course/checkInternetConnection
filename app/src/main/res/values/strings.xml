@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SweetAlertDemo</string>
+    <string name="tv_text_title">Suspect arrested for alleged murder</string>
+    <string name="news_desc">A suspect was named in the alleged murder of 19-year-old University of Pennsylvania student Blaze Bernstein -- initially missing before he was found dead in a shallow grave on the fringe of a Southern California park this week, the police and prosecutors in Orange County said.</string>
 </resources>
